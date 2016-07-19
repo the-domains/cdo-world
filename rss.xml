@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[CDO World]]></title>
         <description><![CDATA[CDO World]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cdo-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 17:21:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 17:21:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cdo-world/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tone analyze ]]></title>
+            <description><![CDATA[<article><h1>Tone analyze </h1><p>Tone analysis </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/897ccad03c2ea1a6692e28da66f326ab/croprotate.jpg?cropheight=984&cropwidth=974&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc91284dd-3c28-44cf-bae5-5df02c0b90ca.jpg&x=10&y=8"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c91284dd-3c28-44cf-bae5-5df02c0b90ca.jpg</link>
+            <guid isPermaLink="false">4d3d87fe-499f-468d-b0c0-de8e41b16f93</guid>
+            <pubDate>Tue, 19 Jul 2016 17:21:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UFO or CDO?]]></title>
             <description><![CDATA[<article><h1>UFO or CDO?</h1><p>What is CDO?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e50f2655-d261-4f58-b03a-8a66046c7ade.jpg"></article>]]></description>
