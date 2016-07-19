@@ -1,0 +1,14 @@
+layout_spectrum: 0.7438238
+typography_spectrum: 0.4140709
+color:
+  saturation: 0.886681
+  brandStrength: 0.2690655
+  lightness: 0.207841
+  brandColors:
+    - '#FFFFFF'
+    - '#534F4B'
+    - '#00C5E5'
+    - '#000000'
+    - '#A19F9D'
+  rhythmicContrast: 0.4237379
+name: CDO World
