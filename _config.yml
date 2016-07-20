@@ -1,14 +1,26 @@
-layout_spectrum: 0.7438238
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4140709
 color:
   saturation: 0.886681
   brandStrength: 0.2690655
-  lightness: 0.207841
+  rhythmicContrast: 0.4237379
   brandColors:
     - '#FFFFFF'
     - '#534F4B'
     - '#00C5E5'
     - '#000000'
     - '#A19F9D'
-  rhythmicContrast: 0.4237379
+  lightness: 0.207841
+layout_spectrum: 1
 name: CDO World
